@@ -4,6 +4,8 @@ The intended goal of this project is to create a mini version of the VRChat webs
 
 This is all for me to become more familiar with coding in React and Redux.
 
+Coding Standards:
+Referencing Flux for Action standards : https://github.com/redux-utilities/flux-standard-action
 
 ============== Text below is auto generated from using the Create React Script ================
 
